@@ -3,7 +3,7 @@ An e-commerce website developed to sell bakery products such as cakes, cupcakes 
 
 Snippets of the website.
 
-<img src="/snippets/homepage.png" width="100%">
+<img src="/snippets/homepage.PNG" width="100%">
 <img src="/snippets/cakes.png" width="100%">
 <img src="/snippets/donuts.png" width="100%">
 <img src="/snippets/item.png" width="100%">
